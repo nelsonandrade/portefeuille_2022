@@ -34,7 +34,7 @@ body{
 
 .box{
     background: #eee; 
-    padding: 4rem;
+    padding: 2rem;
     box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
     border-radius: 50px;
     text-align: center;
@@ -56,6 +56,7 @@ body{
     font-size: 18px;
     margin-top: 2rem;
     margin-bottom: 2rem;
+    
 }
 
 .redes-sociais{
@@ -96,6 +97,7 @@ body{
 
 .portfolio img{
     border-radius: 10px;
+    margin-right: 1rem;
 }
 
 .portfolio h2{
