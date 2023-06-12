@@ -126,3 +126,19 @@ p{
     text-shadow: 2px 2px 16px black;
     margin: 30vh 0;
 }
+.redes-sociais{
+    display: flex;
+    justify-content: center;
+    z-index: 100000
+    ;
+}
+
+.redes-sociais li{
+    margin-right: 1rem;
+}
+
+.redes-sociais img{
+    width: 50px;
+    height: 50px;
+    margin-top: 2rem;
+}
